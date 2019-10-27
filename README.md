@@ -19,6 +19,6 @@ MS COCO 이미지로 미리 훈련된 Yolo.weight 로 실제 동작 확인
 # Reference
 -----------
 * [Yolo V3 loss](https://brunch.co.kr/@kmbmjn95/35)
-* [Basic Code](https://towardsdatascience.com/calculating-loss-of-yolo-v3-layer-8878bfaaf1ff)
+* [Calculating Loss of Yolo (v3) Layer](https://towardsdatascience.com/calculating-loss-of-yolo-v3-layer-8878bfaaf1ff)
 * [darknet/examples](https://github.com/pjreddie/darknet/tree/master/examples)
 * [Keras Yolo2](https://github.com/experiencor/keras-yolo2)
